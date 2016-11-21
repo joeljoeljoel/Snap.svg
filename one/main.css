@@ -1,0 +1,13 @@
+body {
+    min-height: 2000px;
+    margin: 0;
+    background-color: indianred;
+}
+
+#svg {
+    width: 100%;
+    height: 500px;
+    margin: 50px 0;
+    display: block;
+}
+.cls-1{fill:#434441;}.cls-2,.cls-5{fill:#fff;}.cls-3{fill:#b9bcb5;}.cls-10,.cls-4{fill:none;}.cls-4,.cls-5{stroke:#000;}.cls-10,.cls-4,.cls-5{stroke-miterlimit:10;}.cls-4{stroke-width:0.77px;}.cls-5{stroke-width:2.56px;}.cls-6{fill:#51c6ff;}.cls-7{fill:#f5c207;}.cls-8{fill:#c42d26;}.cls-9{fill:#a32424;}.cls-10{stroke:#b28f04;stroke-linecap:round;stroke-width:4px;}
